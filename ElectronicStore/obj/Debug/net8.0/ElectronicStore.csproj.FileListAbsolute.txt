@@ -1,0 +1,162 @@
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.exe
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.deps.json
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.runtimeconfig.json
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.pdb
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfoInputs.cache
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfo.cs
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.CoreCompileInputs.cache
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\obj\Debug\net8.0\refint\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.pdb
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.genruntimeconfig.cache
+C:\Users\Amelia\Desktop\Projet_CSharp\ElectronicStore\obj\Debug\net8.0\ref\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.deps.json
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.runtimeconfig.json
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.pdb
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.AssemblyReference.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfoInputs.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfo.cs
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.CoreCompileInputs.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\refint\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.pdb
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.genruntimeconfig.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ref\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.Migrations.InitialCreate.resources
+C:\Users\Amelia\Desktop\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.GenerateResource.cache
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.deps.json
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.runtimeconfig.json
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.dll
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.pdb
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.AssemblyReference.cache
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.Migrations.InitialCreate.resources
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.GenerateResource.cache
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfoInputs.cache
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfo.cs
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.CoreCompileInputs.cache
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.dll
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\refint\ElectronicStore.dll
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.pdb
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.genruntimeconfig.cache
+C:\Users\nkarg\Downloads\Projekt_CSharp_17.01 1\Projekt_CSharp_17.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ref\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.deps.json
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.runtimeconfig.json
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.pdb
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.AssemblyReference.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.Migrations.InitialCreate.resources
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.GenerateResource.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfoInputs.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfo.cs
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.CoreCompileInputs.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\refint\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.pdb
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.genruntimeconfig.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ref\ElectronicStore.dll
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.deps.json
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.runtimeconfig.json
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.dll
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.pdb
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.AssemblyReference.cache
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.Migrations.InitialCreate.resources
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.GenerateResource.cache
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfoInputs.cache
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfo.cs
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.CoreCompileInputs.cache
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.dll
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\refint\ElectronicStore.dll
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.pdb
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.genruntimeconfig.cache
+D:\Natalka\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ref\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.deps.json
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.runtimeconfig.json
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.pdb
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.AssemblyReference.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.Migrations.InitialCreate.resources
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.GenerateResource.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfoInputs.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfo.cs
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.CoreCompileInputs.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\refint\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.pdb
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.genruntimeconfig.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_21_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ref\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.AssemblyReference.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.Migrations.InitialCreate.resources
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.GenerateResource.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfoInputs.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfo.cs
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.CoreCompileInputs.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\refint\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.pdb
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.deps.json
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.runtimeconfig.json
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.pdb
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.genruntimeconfig.cache
+C:\Users\Amelia\Desktop\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ref\ElectronicStore.dll
+C:\Users\tomek\Downloads\Projekt_CSharp_22_01-2\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.AssemblyReference.cache
+C:\Users\tomek\Downloads\Projekt_CSharp_22_01-2\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomek\Downloads\Projekt_CSharp_22_01-2\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfoInputs.cache
+C:\Users\tomek\Downloads\Projekt_CSharp_22_01-2\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfo.cs
+C:\Users\tomek\Downloads\Projekt_CSharp_22_01-2\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Downloads\Projekt_CSharp_22_01-2\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.dll
+C:\Users\tomek\Downloads\Projekt_CSharp_22_01-2\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\refint\ElectronicStore.dll
+C:\Users\tomek\Downloads\Projekt_CSharp_22_01-2\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.pdb
+C:\Users\tomek\Downloads\Projekt_CSharp_22_01-2\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.deps.json
+C:\Users\tomek\Downloads\Projekt_CSharp_22_01-2\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.dll
+C:\Users\tomek\Downloads\Projekt_CSharp_22_01-2\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.pdb
+C:\Users\tomek\Downloads\Projekt_CSharp_22_01-2\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ref\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Tomek\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.deps.json
+C:\Users\Amelia\Desktop\Tomek\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Tomek\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.pdb
+C:\Users\Amelia\Desktop\Tomek\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.AssemblyReference.cache
+C:\Users\Amelia\Desktop\Tomek\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amelia\Desktop\Tomek\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfoInputs.cache
+C:\Users\Amelia\Desktop\Tomek\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfo.cs
+C:\Users\Amelia\Desktop\Tomek\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.CoreCompileInputs.cache
+C:\Users\Amelia\Desktop\Tomek\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Tomek\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\refint\ElectronicStore.dll
+C:\Users\Amelia\Desktop\Tomek\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.pdb
+C:\Users\Amelia\Desktop\Tomek\Projekt_CSharp_22_01\Projekt_CSharp_19.01\Projekt_CSharp\ElectronicStore\obj\Debug\net8.0\ref\ElectronicStore.dll
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.deps.json
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.dll
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.pdb
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.AssemblyReference.cache
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfoInputs.cache
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfo.cs
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.CoreCompileInputs.cache
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.dll
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\refint\ElectronicStore.dll
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.pdb
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ref\ElectronicStore.dll
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.xml
+C:\Users\wera6\Downloads\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.xml
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.deps.json
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.dll
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.pdb
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\bin\Debug\net8.0\ElectronicStore.xml
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.AssemblyReference.cache
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfoInputs.cache
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfo.cs
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.CoreCompileInputs.cache
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.dll
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\refint\ElectronicStore.dll
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.xml
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ElectronicStore.pdb
+C:\Users\wera6\OneDrive\Pulpit\ProjektCsharp_final\Projekt_PO_CSharp\Projekt_PO_CSharp\Projekt_PO_CSharp\ElectronicStore\obj\Debug\net8.0\ref\ElectronicStore.dll
