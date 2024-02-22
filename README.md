@@ -4,17 +4,17 @@
 This program was developed to enable user login as employees, facilitating product management within the store. The application offers features like product browsing, cataloging, shopping cart manipulation, and order placement for necessary items.
 
 ## Project Structure
-### ElectronicStore: 
+### ElectronicStore 
 Core backend code with classes and logic.
-### GUIElectronicStore:
+### GUIElectronicStore
 Graphical User Interface (GUI) for user interaction.
-### TestSklepu: 
+### TestSklepu 
 Unit tests ensuring application functionality.
-### Dokumentacja.pdf: 
+### Dokumentacja.pdf 
 Technical documentation in PDF format.
-### ElectronicStore.xml: 
+### ElectronicStore.xml 
 Technical documentation in XML format, generated directly from the code.
-### InstrukcjaObsługi.pdf: 
+### InstrukcjaObsługi.pdf 
 User manual for understanding and navigating the features of the application.
-### sklep.xml: 
+### sklep.xml 
 File used for serialization/deserialization.
