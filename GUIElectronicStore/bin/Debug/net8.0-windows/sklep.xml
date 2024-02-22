@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sklep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProduktyNaStanie>
+    <Produkt xsi:type="Laptop">
+      <opis>niezly</opis>
+      <Model>IdeaPad Slim 3</Model>
+      <Cena>2499.0</Cena>
+      <IloscNaStanie>4</IloscNaStanie>
+      <Opis>niezly</Opis>
+      <Producent>HP</Producent>
+      <Ekran>16</Ekran>
+      <PamiecRAM>512</PamiecRAM>
+      <PojemnoscDysku>34</PojemnoscDysku>
+      <System>Windows</System>
+    </Produkt>
+    <Produkt xsi:type="Laptop">
+      <opis>czarny</opis>
+      <Model>G15</Model>
+      <Cena>4899.0</Cena>
+      <IloscNaStanie>2</IloscNaStanie>
+      <Opis>czarny</Opis>
+      <Producent>Dell</Producent>
+      <Ekran>17</Ekran>
+      <PamiecRAM>500</PamiecRAM>
+      <PojemnoscDysku>50</PojemnoscDysku>
+      <System>Linux</System>
+    </Produkt>
+    <Produkt xsi:type="Smartphone">
+      <opis>REWELACYJNY</opis>
+      <Model>REDMI NOTE 12</Model>
+      <Cena>4999.0</Cena>
+      <IloscNaStanie>3</IloscNaStanie>
+      <Opis>REWELACYJNY</Opis>
+      <Producent>Xiaomi</Producent>
+      <Wyswietlacz>5.5</Wyswietlacz>
+      <PamiecRAM>8</PamiecRAM>
+      <PamiecWbudowana>32</PamiecWbudowana>
+      <PojemnoscAkumulatora>4500</PojemnoscAkumulatora>
+      <AparatTylny>50</AparatTylny>
+      <AparatPrzedni>8</AparatPrzedni>
+      <System>Android</System>
+    </Produkt>
+    <Produkt xsi:type="Smartphone">
+      <opis>nowy iphone</opis>
+      <Model>15 PRO</Model>
+      <Cena>4500.0</Cena>
+      <IloscNaStanie>2</IloscNaStanie>
+      <Opis>nowy iphone</Opis>
+      <Producent>Apple</Producent>
+      <Wyswietlacz>5.1</Wyswietlacz>
+      <PamiecRAM>8</PamiecRAM>
+      <PamiecWbudowana>256</PamiecWbudowana>
+      <PojemnoscAkumulatora>5000</PojemnoscAkumulatora>
+      <AparatTylny>48</AparatTylny>
+      <AparatPrzedni>18</AparatPrzedni>
+      <System>Android</System>
+    </Produkt>
+    <Produkt xsi:type="Smartphone">
+      <opis>fajny</opis>
+      <Model>S20</Model>
+      <Cena>2500.0</Cena>
+      <IloscNaStanie>2</IloscNaStanie>
+      <Opis>fajny</Opis>
+      <Producent>Samsung</Producent>
+      <Wyswietlacz>6.1</Wyswietlacz>
+      <PamiecRAM>8</PamiecRAM>
+      <PamiecWbudowana>64</PamiecWbudowana>
+      <PojemnoscAkumulatora>5000</PojemnoscAkumulatora>
+      <AparatTylny>108</AparatTylny>
+      <AparatPrzedni>18</AparatPrzedni>
+      <System>Android</System>
+    </Produkt>
+    <Produkt xsi:type="Laptop">
+      <opis>dotykowy ekran</opis>
+      <Model>Aspire R 15</Model>
+      <Cena>3000.0</Cena>
+      <IloscNaStanie>4</IloscNaStanie>
+      <Opis>dotykowy ekran</Opis>
+      <Producent>Acer</Producent>
+      <Ekran>15.6</Ekran>
+      <PamiecRAM>8</PamiecRAM>
+      <PojemnoscDysku>256</PojemnoscDysku>
+      <System>Windows</System>
+    </Produkt>
+    <Produkt xsi:type="Laptop">
+      <opis>fajny nowy</opis>
+      <Model>MacBook 15 Air</Model>
+      <Cena>5000.0</Cena>
+      <IloscNaStanie>1</IloscNaStanie>
+      <Opis>fajny nowy</Opis>
+      <Producent>Apple</Producent>
+      <Ekran>15.1</Ekran>
+      <PamiecRAM>8</PamiecRAM>
+      <PojemnoscDysku>512</PojemnoscDysku>
+      <System>MacOS</System>
+    </Produkt>
+  </ProduktyNaStanie>
+  <Pracownicy>
+    <Pracownik>
+      <imie>Amelia</imie>
+      <nazwisko>Madej</nazwisko>
+      <dataUrodzenia>2003-04-02T00:00:00</dataUrodzenia>
+      <pesel>12345678900</pesel>
+      <Imie>Amelia</Imie>
+      <Nazwisko>Madej</Nazwisko>
+      <DataUrodzenia>2003-04-02T00:00:00</DataUrodzenia>
+      <Pesel>12345678900</Pesel>
+      <Plec>K</Plec>
+      <Login>amadej</Login>
+      <Haslo>am123</Haslo>
+    </Pracownik>
+    <Pracownik>
+      <imie>Weronika</imie>
+      <nazwisko>Duda</nazwisko>
+      <dataUrodzenia>2003-11-21T00:00:00</dataUrodzenia>
+      <pesel>00987654321</pesel>
+      <Imie>Weronika</Imie>
+      <Nazwisko>Duda</Nazwisko>
+      <DataUrodzenia>2003-11-21T00:00:00</DataUrodzenia>
+      <Pesel>00987654321</Pesel>
+      <Plec>K</Plec>
+      <Login>wduda</Login>
+      <Haslo>dudawer</Haslo>
+    </Pracownik>
+    <Pracownik>
+      <imie>Natalia</imie>
+      <nazwisko>Kargól</nazwisko>
+      <dataUrodzenia>2004-06-29T00:00:00</dataUrodzenia>
+      <pesel>12345678911</pesel>
+      <Imie>Natalia</Imie>
+      <Nazwisko>Kargól</Nazwisko>
+      <DataUrodzenia>2004-06-29T00:00:00</DataUrodzenia>
+      <Pesel>12345678911</Pesel>
+      <Plec>K</Plec>
+      <Login>nkargol</Login>
+      <Haslo>nk321</Haslo>
+    </Pracownik>
+    <Pracownik>
+      <imie>Amelia</imie>
+      <nazwisko>Madej</nazwisko>
+      <dataUrodzenia>2003-04-02T00:00:00</dataUrodzenia>
+      <pesel>12345678900</pesel>
+      <Imie>Amelia</Imie>
+      <Nazwisko>Madej</Nazwisko>
+      <DataUrodzenia>2003-04-02T00:00:00</DataUrodzenia>
+      <Pesel>12345678900</Pesel>
+      <Plec>K</Plec>
+      <Login>amadej</Login>
+      <Haslo>am123</Haslo>
+    </Pracownik>
+    <Pracownik>
+      <imie>Weronika</imie>
+      <nazwisko>Duda</nazwisko>
+      <dataUrodzenia>2003-11-21T00:00:00</dataUrodzenia>
+      <pesel>00987654321</pesel>
+      <Imie>Weronika</Imie>
+      <Nazwisko>Duda</Nazwisko>
+      <DataUrodzenia>2003-11-21T00:00:00</DataUrodzenia>
+      <Pesel>00987654321</Pesel>
+      <Plec>K</Plec>
+      <Login>wduda</Login>
+      <Haslo>dudawer</Haslo>
+    </Pracownik>
+    <Pracownik>
+      <imie>Natalia</imie>
+      <nazwisko>Kargól</nazwisko>
+      <dataUrodzenia>2004-06-29T00:00:00</dataUrodzenia>
+      <pesel>12345678911</pesel>
+      <Imie>Natalia</Imie>
+      <Nazwisko>Kargól</Nazwisko>
+      <DataUrodzenia>2004-06-29T00:00:00</DataUrodzenia>
+      <Pesel>12345678911</Pesel>
+      <Plec>K</Plec>
+      <Login>nkargol</Login>
+      <Haslo>nk321</Haslo>
+    </Pracownik>
+    <Pracownik>
+      <imie>Amelia</imie>
+      <nazwisko>Madej</nazwisko>
+      <dataUrodzenia>2003-04-02T00:00:00</dataUrodzenia>
+      <pesel>12345678900</pesel>
+      <Imie>Amelia</Imie>
+      <Nazwisko>Madej</Nazwisko>
+      <DataUrodzenia>2003-04-02T00:00:00</DataUrodzenia>
+      <Pesel>12345678900</Pesel>
+      <Plec>K</Plec>
+      <Login>amadej</Login>
+      <Haslo>am123</Haslo>
+    </Pracownik>
+    <Pracownik>
+      <imie>Weronika</imie>
+      <nazwisko>Duda</nazwisko>
+      <dataUrodzenia>2003-11-21T00:00:00</dataUrodzenia>
+      <pesel>00987654321</pesel>
+      <Imie>Weronika</Imie>
+      <Nazwisko>Duda</Nazwisko>
+      <DataUrodzenia>2003-11-21T00:00:00</DataUrodzenia>
+      <Pesel>00987654321</Pesel>
+      <Plec>K</Plec>
+      <Login>wduda</Login>
+      <Haslo>dudawer</Haslo>
+    </Pracownik>
+    <Pracownik>
+      <imie>Natalia</imie>
+      <nazwisko>Kargól</nazwisko>
+      <dataUrodzenia>2004-06-29T00:00:00</dataUrodzenia>
+      <pesel>12345678911</pesel>
+      <Imie>Natalia</Imie>
+      <Nazwisko>Kargól</Nazwisko>
+      <DataUrodzenia>2004-06-29T00:00:00</DataUrodzenia>
+      <Pesel>12345678911</Pesel>
+      <Plec>K</Plec>
+      <Login>nkargol</Login>
+      <Haslo>nk321</Haslo>
+    </Pracownik>
+  </Pracownicy>
+</Sklep>

@@ -1,0 +1,525 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ElectronicStore</name>
+    </assembly>
+    <members>
+        <member name="T:ElectronicStore.IZapisywalnySklep">
+            <summary>
+            Interfejs <c>IZapisywalnySklep</c> definiujący operacje zapisywania obiektu Sklep do pliku XML.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.IZapisywalnySklep.ZapiszDoXml(System.String)">
+            <summary>
+            Zapisuje obiekt Sklep do pliku XML o podanej nazwie.
+            </summary>
+            <param name="nazwaPliku">Nazwa pliku XML, do którego ma zostać zapisany obiekt Sklep.</param>
+        </member>
+        <member name="T:ElectronicStore.SystemLaptop">
+            <summary>
+            Reprezentuje typ systemu operacyjnego laptopa.
+            </summary>
+        </member>
+        <member name="T:ElectronicStore.Laptop">
+            <summary>
+            Klasa <c>Laptop</c> reprezentująca produkt - laptop w sklepie elektronicznym.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Laptop.Ekran">
+            <summary>
+            Pobiera lub ustawia rozmiar ekranu laptopa.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Laptop.PamiecRAM">
+            <summary>
+            Pobiera lub ustawia ilość pamięci RAM laptopa.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Laptop.PojemnoscDysku">
+            <summary>
+            Pobiera lub ustawia pojemność dysku laptopa.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Laptop.System">
+            <summary>
+            Pobiera lub ustawia system operacyjny laptopa.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Laptop.#ctor">
+            <summary>
+            Inicjalizuje nowy obiekt klasy <c>Laptop</c> bezparametrowo.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Laptop.#ctor(System.Single,System.Int32,System.Int32,ElectronicStore.SystemLaptop,ElectronicStore.EnumProducent,System.String,System.Decimal,System.Int32,System.String)">
+            <summary>
+            Inicjalizuje nowy obiekt klasy <c>Laptop</c> parametrami opisującymi laptop.
+            </summary>
+            <param name="ekran">Rozmiar ekranu laptopa.</param>
+            <param name="pamiecRAM">Ilość pamięci RAM laptopa.</param>
+            <param name="pojemnoscDysku">Pojemność dysku laptopa.</param>
+            <param name="system">System operacyjny laptopa.</param>
+            <param name="producent">Producent laptopa.</param>
+            <param name="model">Model laptopa.</param>
+            <param name="cena">Cena laptopa.</param>
+            <param name="iloscNaStanie">Ilość dostępnych sztuk laptopa na magazynie.</param>
+            <param name="opis">Opis laptopa.</param>
+        </member>
+        <member name="M:ElectronicStore.Laptop.ToString">
+            <summary>
+            Zwraca tekstową reprezentację laptopa.
+            </summary>
+            <returns>Łańcuch znaków reprezentujący laptop.</returns>
+        </member>
+        <member name="M:ElectronicStore.Laptop.WyswietlSzczegoly">
+            <summary>
+            Zwraca szczegółowe informacje o laptopie, takie jak system operacyjny, rozmiar ekranu, pamięć RAM i pojemność dysku.
+            </summary>
+            <returns>Łańcuch znaków reprezentujący szczegóły laptopa.</returns>
+        </member>
+        <member name="T:ElectronicStore.Osoba">
+            <summary>
+            Klasa abstrakcyjna reprezentująca osobę.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Osoba.Imie">
+            <summary>
+            Pobiera lub ustawia imię osoby.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Osoba.Nazwisko">
+            <summary>
+            Pobiera lub ustawia nazwisko osoby.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Osoba.DataUrodzenia">
+            <summary>
+            Pobiera lub ustawia miasto osoby.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Osoba.Pesel">
+            <summary>
+            Pobiera lub ustawia numer PESEL osoby.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Osoba.Plec">
+            <summary>
+            Pobiera lub ustawia płeć osoby.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Osoba.#ctor">
+            <summary>
+            Inicjalizuje nowy obiekt klasy <c>Osoba</c> konstruktorem domyślnym.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Osoba.#ctor(System.String,System.String,ElectronicStore.EnumPlec)">
+            <summary>
+            Inicjalizuje nowy obiekt klasy <c>Osoba</c> konstruktorem parametrowym.
+            </summary>
+            <param name="imie">Imię osoby.</param>
+            <param name="nazwisko">Nazwisko osoby.</param>
+            <param name="plec">Płeć osoby.</param>
+        </member>
+        <member name="M:ElectronicStore.Osoba.#ctor(System.String,System.String,System.String,System.String,ElectronicStore.EnumPlec)">
+            <summary>
+            Inicjalizuje nowy obiekt klasy <c>Osoba</c> konstruktorem parametrowym z pełnym zestawem informacji.
+            </summary>
+            <param name="imie">Imię osoby.</param>
+            <param name="nazwisko">Nazwisko osoby.</param>
+            <param name="dataUrodzenia">Data urodzenia osoby w formie tekstowej.</param>
+            <param name="pesel">Numer PESEL osoby.</param>
+            <param name="plec">Płeć osoby.</param>
+        </member>
+        <member name="M:ElectronicStore.Osoba.Wiek">
+            <summary>
+            Oblicza i zwraca wiek osoby.
+            </summary>
+            <returns>Wiek osoby.</returns>
+        </member>
+        <member name="M:ElectronicStore.Osoba.ToString">
+            <summary>
+            Zwraca ciąg znaków reprezentujący osobę.
+            </summary>
+            <returns>Ciąg znaków reprezentujący osobę.</returns>
+        </member>
+        <member name="M:ElectronicStore.Osoba.Equals(ElectronicStore.Osoba)">
+            <summary>
+            Określa, czy bieżący obiekt jest równy innemu obiektowi tego samego typu.
+            </summary>
+            <param name="other">Osoba do porównania.</param>
+            <returns>True, jeśli bieżący obiekt jest równy podanej osobie; w przeciwnym razie false.</returns>
+        </member>
+        <member name="T:ElectronicStore.KierunekSortowania">
+            <summary>
+            Reprezentuje kierunek sortowania paragonu.
+            </summary>
+        </member>
+        <member name="F:ElectronicStore.KierunekSortowania.Rosnaco">
+            <summary>
+            Sortowanie rosnąco.
+            </summary>
+        </member>
+        <member name="F:ElectronicStore.KierunekSortowania.Malejaco">
+            <summary>
+            Sortowanie malejąco.
+            </summary>
+        </member>
+        <member name="T:ElectronicStore.Paragon">
+            <summary>
+            Reprezentuje paragon składający się z listy pozycji (produktów) oraz metody do zarządzania nimi.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Paragon.PozycjeParagonu">
+            <summary>
+            Pobiera lub ustawia listę pozycji paragonu.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Paragon.#ctor">
+            <summary>
+            Inicjalizuje nową instancję klasy Paragon.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Paragon.DodajProduktDoParagonu(ElectronicStore.Produkt,System.Int32)">
+            <summary>
+            Dodaje produkt do paragonu w określonej ilości.
+            </summary>
+            <param name="produkt">Produkt do dodania.</param>
+            <param name="ilosc">Ilość produktu.</param>
+        </member>
+        <member name="M:ElectronicStore.Paragon.UsunProduktZParagonu(ElectronicStore.Produkt)">
+            <summary>
+            Usuwa produkt z paragonu.
+            </summary>
+            <param name="produkt">Produkt do usunięcia.</param>
+        </member>
+        <member name="M:ElectronicStore.Paragon.WyswietlParagon">
+            <summary>
+            Wyświetla zawartość paragonu.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Paragon.SortujParagonPoCenie(ElectronicStore.KierunekSortowania)">
+            <summary>
+            Sortuje pozycje paragonu według ceny.
+            </summary>
+            <param name="kierunek">Kierunek sortowania.</param>
+        </member>
+        <member name="M:ElectronicStore.Paragon.WyszukajPoProducencie(ElectronicStore.EnumProducent)">
+            <summary>
+            Wyszukuje pozycje paragonu według producenta.
+            </summary>
+            <param name="wybranyProducent">Producent do wyszukania.</param>
+            <returns>Lista produktów danego producenta w paragonie.</returns>
+        </member>
+        <member name="M:ElectronicStore.Paragon.WyswietlProduktyDanegoProducenta(ElectronicStore.EnumProducent)">
+            <summary>
+            Wyświetla produkty danego producenta z paragonu.
+            </summary>
+            <param name="wybranyProducent">Producent do wyświetlenia.</param>
+        </member>
+        <member name="T:ElectronicStore.Pracownik">
+            <summary>
+            Reprezentuje pracownika sklepu, dziedziczącego po klasie Osoba.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Pracownik.Nr">
+            <summary>
+            Pobiera lub ustawia unikalny numer identyfikacyjny pracownika.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Pracownik.Login">
+            <summary>
+            Pobiera lub ustawia login pracownika.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Pracownik.Haslo">
+            <summary>
+            Pobiera lub ustawia hasło pracownika.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Pracownik.#cctor">
+            <summary>
+            Inicjalizuje statyczne pola klasy Pracownik.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Pracownik.#ctor(System.String,System.String,System.String,System.String,ElectronicStore.EnumPlec,System.String,System.String)">
+            <summary>
+            Inicjalizuje nową instancję klasy Pracownik z podanymi danymi.
+            </summary>
+            <param name="imie">Imię pracownika.</param>
+            <param name="nazwisko">Nazwisko pracownika.</param>
+            <param name="dataUrodzenia">Data urodzenia pracownika.</param>
+            <param name="pesel">PESEL pracownika.</param>
+            <param name="plec">Płeć pracownika.</param>
+            <param name="login">Login pracownika.</param>
+            <param name="haslo">Hasło pracownika.</param>
+        </member>
+        <member name="M:ElectronicStore.Pracownik.ToString">
+            <summary>
+            Zwraca tekstową reprezentację obiektu Pracownik.
+            </summary>
+            <returns>Łańcuch znaków reprezentujący pracownika.</returns>
+        </member>
+        <member name="T:ElectronicStore.Produkt">
+            <summary>
+            Reprezentuje abstrakcyjną klasę Produkt, dziedziczącą po interfejsach IEquatable i ICloneable.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Produkt.Model">
+            <summary>
+            Pobiera lub ustawia model produktu.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Produkt.Cena">
+            <summary>
+            Pobiera lub ustawia cenę produktu.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Produkt.IloscNaStanie">
+            <summary>
+            Pobiera lub ustawia ilość produktu na stanie.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Produkt.Opis">
+            <summary>
+            Pobiera lub ustawia opis produktu.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Produkt.Producent">
+            <summary>
+            Pobiera lub ustawia producenta produktu.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Produkt.#ctor(ElectronicStore.EnumProducent,System.String,System.Decimal,System.Int32,System.String)">
+            <summary>
+            Inicjalizuje nową instancję klasy Produkt z podanymi danymi.
+            </summary>
+            <param name="producent">Producent produktu.</param>
+            <param name="model">Model produktu.</param>
+            <param name="cena">Cena produktu.</param>
+            <param name="iloscNaStanie">Ilość produktu na stanie.</param>
+            <param name="opis">Opis produktu.</param>
+        </member>
+        <member name="M:ElectronicStore.Produkt.ToString">
+            <summary>
+            Zwraca tekstową reprezentację obiektu Produkt.
+            </summary>
+            <returns>Łańcuch znaków reprezentujący produkt.</returns>
+        </member>
+        <member name="M:ElectronicStore.Produkt.Equals(ElectronicStore.Produkt)">
+            <summary>
+            Określa, czy bieżący obiekt jest równy innemu obiektowi tego samego typu.
+            </summary>
+            <param name="other">Inny obiekt do porównania z tym obiektem.</param>
+            <returns>
+            true, jeśli bieżący obiekt jest równy podanemu obiektowi; w przeciwnym razie false.
+            </returns>
+        </member>
+        <member name="M:ElectronicStore.Produkt.Clone">
+            <summary>
+            Tworzy nowy obiekt, który jest kopią bieżącego wystąpienia.
+            </summary>
+            <returns>Nowy obiekt, który jest kopią bieżącego wystąpienia.</returns>
+        </member>
+        <member name="P:ElectronicStore.Sklep.ProduktyNaStanie">
+            <summary>
+            Pobiera lub ustawia listę produktów na stanie sklepu.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.Sklep.Pracownicy">
+            <summary>
+            Pobiera lub ustawia listę pracowników sklepu.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Sklep.#ctor">
+            <summary>
+            Inicjalizuje nową instancję klasy Sklep.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Sklep.DodajPracownika(ElectronicStore.Pracownik)">
+            <summary>
+            Dodaje pracownika do sklepu.
+            </summary>
+            <param name="pracownik">Pracownik do dodania.</param>
+        </member>
+        <member name="M:ElectronicStore.Sklep.DodajNowyProdukt(ElectronicStore.Produkt)">
+            <summary>
+            Dodaje nowy produkt do stanu sklepu.
+            </summary>
+            <param name="produkt">Produkt do dodania.</param>
+        </member>
+        <member name="M:ElectronicStore.Sklep.UsunProdukt(ElectronicStore.Produkt)">
+            <summary>
+            Usuwa produkt ze stanu sklepu.
+            </summary>
+            <param name="produkt">Produkt do usunięcia.</param>
+        </member>
+        <member name="M:ElectronicStore.Sklep.ZwiekszIloscProduktu(ElectronicStore.Produkt,System.Int32)">
+            <summary>
+            Zwiększa ilość danego produktu na stanie sklepu.
+            </summary>
+            <param name="produkt">Produkt, którego ilość ma zostać zwiększona.</param>
+            <param name="iloscDoDodania">Ilość do dodania do aktualnej ilości produktu.</param>
+        </member>
+        <member name="M:ElectronicStore.Sklep.WyswietlProduktyNaStanie">
+            <summary>
+            Wyświetla listę produktów na stanie sklepu.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Sklep.RealizujZakupy(ElectronicStore.Paragon)">
+            <summary>
+            Realizuje zakupy na podstawie podanego paragonu, zmniejszając ilość produktów na stanie.
+            </summary>
+            <param name="paragon">Paragon zawierający produkty do zakupu.</param>
+        </member>
+        <member name="M:ElectronicStore.Sklep.ZapiszDoXml(System.String)">
+            <summary>
+            Zapisuje dane sklepu do pliku XML.
+            </summary>
+            <param name="nazwaPliku">Ścieżka do pliku XML.</param>
+        </member>
+        <member name="M:ElectronicStore.Sklep.OdczytajZXml(System.String)">
+            <summary>
+            Odczytuje dane sklepu z pliku XML.
+            </summary>
+            <param name="nazwaPliku">Ścieżka do pliku XML.</param>
+            <returns>Obiekt Sklep odczytany z pliku XML lub null, jeśli plik nie istnieje.</returns>
+        </member>
+        <member name="M:ElectronicStore.Sklep.ZapiszDoBazy(ElectronicStore.SklepDbContext)">
+            <summary>
+            Zapisuje dane sklepu do bazy danych.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Sklep.OdczytajZBazy(ElectronicStore.SklepDbContext)">
+            <summary>
+            Odczytuje dane sklepu z bazy danych.
+            </summary>
+            <returns>Obiekt Sklep odczytany z bazy danych lub null, jeśli sklep o podanym ID nie istnieje.</returns>
+        </member>
+        <member name="M:ElectronicStore.Sklep.WyszukajProduktyWedlugTypu(System.Type)">
+            <summary>
+            Wyszukuje produkty na stanie sklepu według podanego typu.
+            </summary>
+            <param name="typProduktu">Typ produktu, według którego mają być wyszukane produkty.</param>
+            <returns>Lista produktów danego typu na stanie sklepu.</returns>
+        </member>
+        <member name="T:ElectronicStore.SklepDbContext">
+            <summary>
+            Klasa reprezentująca kontekst bazy danych dla sklepu elektronicznego.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.SklepDbContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{ElectronicStore.SklepDbContext})">
+            <summary>
+            Inicjalizuje nową instancję klasy.
+            </summary>
+            <param name="options">Opcje konfiguracji kontekstu bazy danych.</param>
+        </member>
+        <member name="M:ElectronicStore.SklepDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <summary>
+            Konfiguruje model danych dla kontekstu bazy danych.
+            </summary>
+            <param name="builder">Konfigurator modelu.</param>
+        </member>
+        <member name="P:ElectronicStore.SklepDbContext.Sklepy">
+            <summary>
+            Zestaw danych reprezentujący sklepy w bazie danych.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.SklepDbContext.Produkty">
+            <summary>
+            Zestaw danych reprezentujący produkty w bazie danych.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.SklepDbContext.Pracownicy">
+            <summary>
+            Zestaw danych reprezentujący pracowników w bazie danych.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.SklepDbContext.Laptops">
+            <summary>
+            Zestaw danych reprezentujący laptopy w bazie danych.
+            </summary>
+        </member>
+        <member name="P:ElectronicStore.SklepDbContext.Smartphones">
+            <summary>
+            Zestaw danych reprezentujący smartfony w bazie danych.
+            </summary>
+        </member>
+        <member name="T:ElectronicStore.SystemTel">
+            <summary>
+            Reprezentuje system operacyjny telefonu.
+            </summary>
+        </member>
+        <member name="T:ElectronicStore.Output">
+            <summary>
+            Delegat dla metody zwracającej ciąg znaków.
+            </summary>
+            <returns>Ciąg znaków.</returns>
+        </member>
+        <member name="T:ElectronicStore.Smartphone">
+            <summary>
+            Klasa reprezentująca smartfon.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Smartphone.#ctor">
+            <summary>
+            Inicjalizuje nową instancję klasy <see cref="T:ElectronicStore.Smartphone"/>.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.Smartphone.#ctor(System.Single,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,ElectronicStore.SystemTel,ElectronicStore.EnumProducent,System.String,System.Decimal,System.Int32,System.String)">
+            <summary>
+            Inicjalizuje nową instancję klasy <see cref="T:ElectronicStore.Smartphone"/> z określonymi parametrami.
+            </summary>
+            <param name="wyswietlacz">Wielkość wyświetlacza w calach.</param>
+            <param name="pamiecRAM">Pamięć RAM w gigabajtach.</param>
+            <param name="pamiecWbudowana">Pamięć wbudowana w gigabajtach.</param>
+            <param name="pojemnoscAkumulatora">Pojemność akumulatora w mAh.</param>
+            <param name="aparatTylny">Rozdzielczość aparatu tylnego w megapikselach.</param>
+            <param name="aparatPrzedni">Rozdzielczość aparatu przedniego w megapikselach.</param>
+            <param name="system">System operacyjny telefonu.</param>
+            <param name="producent">Producent smartfona.</param>
+            <param name="model">Model smartfona.</param>
+            <param name="cena">Cena smartfona.</param>
+            <param name="iloscNaStanie">Ilość dostępnych sztuk smartfona.</param>
+            <param name="opis">Opis smartfona.</param>
+        </member>
+        <member name="M:ElectronicStore.Smartphone.WyswietlSzczegoly">
+            <summary>
+            Generuje ciąg znaków reprezentujący szczegóły smartfona.
+            </summary>
+            <returns>Ciąg znaków reprezentujący szczegóły smartfona.</returns>
+        </member>
+        <member name="M:ElectronicStore.Smartphone.GenerateOutput">
+            <summary>
+            Metoda generująca ciąg znaków reprezentujący informacje o smartfonie.
+            </summary>
+            <returns>Ciąg znaków reprezentujący informacje o smartfonie.</returns>
+        </member>
+        <member name="M:ElectronicStore.Smartphone.ToString">
+            <summary>
+            Przesłonięta metoda ToString zwracająca informacje o smartfonie.
+            </summary>
+            <returns>Informacje o smartfonie.</returns>
+        </member>
+        <member name="M:ElectronicStore.Smartphone.Clone">
+            <summary>
+            Metoda służąca do klonowania obiektu <see cref="T:ElectronicStore.Smartphone"/>.
+            </summary>
+            <returns>Nowa instancja sklonowanego smartfona.</returns>
+        </member>
+        <member name="T:ElectronicStore.ZlyNumerPESELException">
+            <summary>
+            Wyjątek rzucany w przypadku błędnego numeru PESEL.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.ZlyNumerPESELException.#ctor">
+            <summary>
+            Inicjuje nowe wystąpienie klasy.
+            </summary>
+        </member>
+        <member name="M:ElectronicStore.ZlyNumerPESELException.#ctor(System.String)">
+            <summary>
+            Inicjuje nowe wystąpienie klasy.
+            </summary>
+            <param name="message">Komunikat opisujący błąd.</param>
+        </member>
+    </members>
+</doc>
