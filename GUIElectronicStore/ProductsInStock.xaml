@@ -1,0 +1,13 @@
+﻿<Window x:Class="GUIElectronicStore.ProductsInStock"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUIElectronicStore"
+        mc:Ignorable="d"
+        Title="Products In Stock" Height="600" Width="900" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <ListBox x:Name="productsListBox" HorizontalAlignment="Center" VerticalAlignment="Center" Height="535" Width="850" FontFamily="Tw Cen MT Condensed Extra Bold" Foreground="Black" FontSize="20"/>
+        <Rectangle HorizontalAlignment="Center" Height="564" Stroke="#FF518FCF" VerticalAlignment="Center" Width="880" StrokeThickness="6" RenderTransformOrigin="0.584,0.492" />
+    </Grid>
+</Window>
