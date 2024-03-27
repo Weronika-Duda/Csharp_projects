@@ -1,7 +1,7 @@
 # Electronic Store Project
 
 ## Overview
-This program was developed to enable user login as employees, facilitating product management within the store. The application offers features like product browsing, cataloging, shopping cart manipulation, and order placement for necessary items.
+This program was developed to enable user login as employees, facilitating product management within the store. The application offers features like product browsing, cataloguing, shopping cart manipulation, and order placement for necessary items.
 
 ## Project Structure
 ### ElectronicStore 
